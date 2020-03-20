@@ -1,0 +1,19 @@
+
+.App-logo {
+  height: 40vmin;
+}
+
+
+.head{
+  display: inline-block;
+
+}
+
+.Form{
+  width: 800px;
+  display: inline-block;
+}
+
+.App-link {
+  color: #09d3ac;
+}
