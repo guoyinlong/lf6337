@@ -38,7 +38,7 @@ class SiderDemo extends Component {
                     </Menu.Item>
                     <Menu.Item key="3">
                         <Icon type="upload" />
-                        <span className="nav-text">nav 3</span>
+                        <span className="nav-text">nav 32</span>
                     </Menu.Item>
                 </Menu>
             </Sider>
